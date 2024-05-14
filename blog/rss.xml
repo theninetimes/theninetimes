@@ -4,10 +4,19 @@
         <title>theninetimes Blog</title>
         <link>https://theninetimes.github.io/blog</link>
         <description>theninetimes Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 08:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[Greetings!]]></title>
+            <link>https://theninetimes.github.io/blog/greetings</link>
+            <guid>https://theninetimes.github.io/blog/greetings</guid>
+            <pubDate>Tue, 14 May 2024 08:08:28 GMT</pubDate>
+            <description><![CDATA[我的第一篇博客]]></description>
+            <content:encoded><![CDATA[<p>我的第一篇博客</p>]]></content:encoded>
+            <category>greetings</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://theninetimes.github.io/blog/welcome</link>
